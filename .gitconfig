@@ -1,0 +1,15 @@
+[user]
+        name = Lauri Koskela
+[core]
+        fileMode = false
+        excludesfile = /home/luryus/.gitignore_global
+        editor = vim
+[push]
+        default = simple
+[alias]
+        st = status
+        lg = log --oneline --decorate --all --graph
+        co = checkout
+[merge]
+        defaultToUpstream = true
+
