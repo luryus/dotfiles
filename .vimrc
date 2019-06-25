@@ -40,14 +40,14 @@ Plugin 'Raimondi/delimitMate'
 " TeX support
 Plugin 'lervag/vimtex'
 " Autocomplete
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 " Git support
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 " Multiple selections
 Plugin 'terryma/vim-multiple-cursors'
 " powerline
-Plugin 'vim-airline/vim-airline'
+"Plugin 'vim-airline/vim-airline'
 " syntax checking
 Plugin 'vim-syntastic/syntastic'
 " editorconfig support
